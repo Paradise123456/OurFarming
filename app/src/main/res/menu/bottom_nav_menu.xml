@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Browse"
+        android:iconTint="@color/black"
+        android:visible="true"/>
+    <item
+        android:id="@+id/navigation_product"
+        android:icon="@drawable/search"
+        android:title="Products"
+        android:iconTint="@color/black"
+        android:visible="true"/>
+    <item
+        android:id="@+id/navigation_notification"
+        android:icon="@drawable/ic_notification"
+        android:title="Notification"
+        android:iconTint="@color/black"
+        android:visible="true"/>
+    <item
+        android:id="@+id/navigation_priceList"
+        android:icon="@drawable/ic_information"
+        android:title="Today's Price"
+        android:iconTint="@color/black"
+        android:visible="true"/>
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/profile"
+        android:title="@string/title_profile"
+        android:iconTint="@color/black"
+        android:visible="true"/>
+</menu>

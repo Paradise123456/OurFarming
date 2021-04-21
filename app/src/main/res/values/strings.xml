@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Our Farming</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember Me!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="accetptermsandcondition">I accept Terms and Condition</string>
+    <string name="signup">Signup</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Hari Acharya</string>
+    <string name="active_time">34 min ago</string>
+    <string name="description">Nepal, officially the Federal Democratic Republic of Nepal, is a country in South Asia. It is mainly in the Himalayas, but also includes parts of the Indo-Gangetic Plain. It is the 49th largest country by population and 93rd largest country by area.</string>
+    <string name="profilepicture">ProfilePicture</string>
+    <string name="splashscreen">Welcome to Our Farming!</string>
+    <string name="login_with_facebook">Login With Facebook</string>
+    <string name="loginbutton">LOGIN</string>
+    <string name="alreadyregistered">Already Registered?</string>
+    <string name="channel_name">Our Farming</string>
+    <string name="channel_description">Our Farming Android Application Notification Description.</string>
+    <string name="title_activity_botton_navigation">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="Search">Search</string>
+    <string name="title_activity_bottom_home">bottom_home</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_bottom_notification">bottom_notification</string>
+    <string name="title_activity_bottom_information">bottom_information</string>
+    <string name="title_activity_bottom_search">bottom_search</string>
+    <string name="title_activity_add_product1">add_product1</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">Register</string>
+    <string name="name_error">Please enter your name</string>
+    <string name="phone_error">Please enter your phone number</string>
+    <string name="email_error">Please enter your email address</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="password_error">Please enter a password</string>
+    <string name="error_invalid_password">Please enter a minimum password of 6 characters</string>
+
+</resources>

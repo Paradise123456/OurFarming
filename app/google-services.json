@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "810210069330",
+    "firebase_url": "https://our-farming-3d8c9.firebaseio.com",
+    "project_id": "our-farming-3d8c9",
+    "storage_bucket": "our-farming-3d8c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810210069330:android:0dc59d0478024743a4888b",
+        "android_client_info": {
+          "package_name": "com.example.ourfarming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810210069330-urqs4s9uk49bp8dnhn99aaiivj77dcvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ourfarming",
+            "certificate_hash": "a349c1c24a6ac7af4ecaca89b462a3ffe6b60181"
+          }
+        },
+        {
+          "client_id": "810210069330-ocl72fvp2q83f3ljt2mmf99r3m330f2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwoik3InUJaAVaO4BTzmuZdZcdCJADdIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810210069330-ocl72fvp2q83f3ljt2mmf99r3m330f2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
